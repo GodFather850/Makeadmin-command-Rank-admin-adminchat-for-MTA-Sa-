@@ -1,7 +1,7 @@
 # Makeadmin-command-Rank-admin-adminchat-for-MTA-Sa-
 This file contains all the required admin ranks within the MTA server and only a few places in the script need to be changed to match your server.
 
-![MTA:sa](Downloads/mta131.jpg)
+![MTA:sa](/home/godfather/Downloads/jpg2png/mta131.png)
 ---
 # MTA Admin Chat System + MakeAdmin Command 🚀
 
