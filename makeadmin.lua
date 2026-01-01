@@ -1,7 +1,8 @@
 ---@diagnostic disable: undefined-global
 -- Scripted By GodFather
 -- variables ----->
-local accSYs = exports["Accounts-System"]
+local accSys = exports["Accounts-System"]
+local mickSys = export["mick"]
 --===================================================================================================================
 --___________________commands_________________
 -- chat admins for staff and managements
@@ -91,6 +92,7 @@ addCommandHandler("makeadmin", function (thePlayer, command, player, admin)
     if thePlayer then
         if player then
             local admin = tonumber(admin) -- make int admin rank
+            local player = mickSys:findPlayer(player)
             if admin then
                 local name = getPlayerName(thePlayer)
                 local playername = getPlayerName(player)
