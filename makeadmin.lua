@@ -1,5 +1,5 @@
 ---@diagnostic disable: undefined-global
--- Scripted By GodFather
+-- Scripted By CAgent_47
 -- variables ----->
 local accSys = exports["Accounts-System"]
 local mickSys = export["mick"]
