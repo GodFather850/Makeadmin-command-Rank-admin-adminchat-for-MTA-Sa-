@@ -58,7 +58,9 @@ if tonumber(getElementData(accSYs:getPlayerAcc(thePlayer), "pAdmin")) <= 27 then
 end
 
 ```
+---
 
+[#CAgent_47](https://github.com/topics/CAgent47)
 
 --- 
 # -👤Created By CAgent_47
